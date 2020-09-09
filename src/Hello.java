@@ -1,8 +1,11 @@
 public class Hello {
-    // for og få den her skriv pvsm
+    // psvm for at få public static void main(String[] args) {
+
     public static void main(String[] args) {
-        // for og få den her skriv sout
+
+        // sout for at få System.out.println();
         System.out.println("Hello World");
         System.out.println("Hello");
+        System.out.println("Mit navn er Mathias");
     }
 }
